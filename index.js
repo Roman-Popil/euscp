@@ -1,3 +1,3 @@
 const cryptoInit = require('./euscp');
 
-export default cryptoInit;
+module.exports = cryptoInit;
